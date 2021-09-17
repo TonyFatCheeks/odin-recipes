@@ -1,1 +1,1 @@
-My very first project
+Sep 16 - My very first project. This should be updated to track progress across coding. I learned how to do headings, paragraphs, images, and how to link them between pages. The hardest part by far was learning how to push code onto Github. 
